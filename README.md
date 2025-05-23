@@ -29,23 +29,6 @@
 
 ---
 
-### ⚡ GitHub Stats (Public Repos)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeen-s&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeen-s&layout=compact&theme=radical" height="160px"/>
-</p>
-
----
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adeen-s&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🧩 Code Life
 
 <table align="center">
@@ -53,6 +36,17 @@
     <td><img src="https://github-profile-trophy.vercel.app/?username=adeen-s&theme=darkhub&no-frame=true&column=4" /></td>
   </tr>
 </table>
+
+---
+
+### ⚡ GitHub Stats
+![adeen-s's Stats](https://github-readme-stats.vercel.app/api?username=adeen-s&theme=react&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
+![adeen-s's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adeen-s&theme=react&hide_border=true)
+
+---
+
+### 🔥 Languages
+![adeen-s's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeen-s&theme=react&show_icons=true&hide_border=true)
 
 ---
 
