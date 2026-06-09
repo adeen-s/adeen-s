@@ -1,8 +1,13 @@
-<h1 align="center">Hey 👋 I'm Adeen</h1>
-<h3 align="center">AI + LLM Tools • Mobile Developer • Indie Hacker • Dev Mentor</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58A6FF,100:61dafb&height=200&section=header&text=Adeen%20Shukla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO%20%40%20Metafic%20%E2%80%A2%20Builder%20%E2%80%A2%20Speaker%20%E2%80%A2%20Indie%20Hacker&descSize=18&descAlignY=58" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=LLM+Engineer+%26+Prompt+Architect;React+Native+Specialist;Open+Source+Lover;Mentor+%26+Community+Builder;Indie+Hacker+by+Night&center=true&width=800&height=45&color=58A6FF&vCenter=true&duration=2000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=LLM+Engineer+%26+Prompt+Architect;React+Native+Specialist;Founder+%40+Leadnics;GitHub+Campus+Expert+%26+GDG+Organizer;Open+Source+Lover;Indie+Hacker+by+Night&center=true&width=800&height=45&color=58A6FF&vCenter=true&duration=2000&size=22" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adeen-s&color=58A6FF&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
@@ -11,10 +16,13 @@
 
 🚀 I build high-performance teams, engineer scalable systems, and ship AI-first products.
 
-👨‍💻 Hacking at [Metafic](https://metafic.co) — leading engineering across web, mobile, and AI.  
-🧩 Working at the edges of **LLMs, MCP, A2A, agentic workflows, and prompt engineering**.  
-📱 Shipping fast with **React Native** and cross-platform UI.  
-🎙️ Speaker, mentor, and community builder — forever curious.
+👨‍💻 CTO at [Metafic](https://metafic.co) — leading engineering across web, mobile, and AI.
+🧪 Founder of **Leadnics** — an AI-powered lead management platform.
+🧩 Working at the edges of **LLMs, MCP, A2A, agentic workflows, and prompt engineering**.
+📱 Shipping fast with **React Native** and cross-platform UI.
+🎙️ Tech speaker with **20+ conference talks** — forever curious.
+🌱 GitHub Campus Expert alum & GDG Indore organizer — grew a dev community of 500+ members.
+🎓 Currently sharpening the business edge at **ISB Hyderabad**.
 
 > “Good code is poetry. Great teams are jazz.” 🎷
 
@@ -23,36 +31,54 @@
 ### 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,discord,react,ts,js,nodejs,nextjs,python,gcp,vercel,tailwind,figma,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nextjs,python,gcp,firebase,vercel,tailwind,androidstudio,figma,git,github,linux,vscode" />
 </p>
 
 ---
 
-### 🧩 Code Life
+### 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-profile-trophy.vercel.app/?username=adeen-s&theme=darkhub&no-frame=true&column=4" /></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/adeen-s/Blockendance">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=adeen-s&repo=Blockendance&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/adeen-s/neural-network-from-scratch">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=adeen-s&repo=neural-network-from-scratch&theme=react&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/adeen-s/droid-config-wt88047">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=adeen-s&repo=droid-config-wt88047&theme=react&hide_border=true" />
+  </a>
+</p>
 
 ---
 
 ### ⚡ GitHub Stats
-![adeen-s's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=adeen-s&theme=react&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
-![adeen-s's Streak](https://streak-stats.demolab.com/?user=adeen-s&theme=react&hide_border=true)
 
----
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adeen-s&theme=react&show_icons=true&hide_border=true&count_private=true&hide_rank=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=adeen-s&theme=react&hide_border=true" height="165" />
+</p>
 
-### 🔥 Languages
-![adeen-s's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adeen-s&theme=react&show_icons=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adeen-s&theme=react&hide_border=true&layout=compact&langs_count=8&hide=html,css" />
+</p>
 
 ---
 
 ### ⏳ GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeen-s&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeen-s&theme=react-dark&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeen-s/adeen-s/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeen-s/adeen-s/output/github-contribution-grid-snake.svg" />
+    <img alt="My contribution graph getting devoured by a snake" src="https://raw.githubusercontent.com/adeen-s/adeen-s/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -82,6 +108,11 @@
 
 ```txt
 💡 Ordained Dudeist priest and self-appointed PhD in pop culture.
+☕ Cold brew obsessive, part-time music producer.
 ⚠️ Brace for casual existentialism and Lebowski cameos at your standup.
 ```
 <p align="center"> <img src="https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif" height="150px"/> </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61dafb,50:58A6FF,100:1a1b27&height=120&section=footer" width="100%" />
+</p>
