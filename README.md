@@ -46,11 +46,18 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=adeen-s&repo=promptslay&theme=react&hide_border=true" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/adeen-s/droid-config-wt88047">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=adeen-s&repo=droid-config-wt88047&theme=react&hide_border=true" />
+  </a>
+</p>
 
 <p align="center">
   🛡️ <a href="https://github.com/adeen-s/mcp-gateway"><b>mcp-gateway</b></a> — a production-grade gateway for the Model Context Protocol: one secure, observable endpoint in front of all your MCP servers.
   <br/>
   🧪 <a href="https://github.com/adeen-s/promptslay"><b>promptslay</b></a> — unit tests for prompts: regression &amp; evaluation framework with deterministic and LLM-as-judge graders.
+  <br/>
+  🤖 <a href="https://github.com/adeen-s/droid-config-wt88047"><b>droid-config-wt88047</b></a> — device tree powering custom Android builds for the Redmi 2.
 </p>
 
 ---
