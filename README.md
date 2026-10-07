@@ -1,131 +1,55 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58A6FF,100:61dafb&height=200&section=header&text=Adeen%20Shukla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO%20%40%20Metafic%20%E2%80%A2%20Builder%20%E2%80%A2%20Speaker%20%E2%80%A2%20Indie%20Hacker&descSize=18&descAlignY=58" width="100%" />
-</p>
+<img src="assets/mark.svg" alt="" width="64" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=LLM+Engineer+%26+Prompt+Architect;React+Native+Specialist;Founder+%40+Leadnics;GitHub+Campus+Expert+%26+GDG+Organizer;Open+Source+Lover;Indie+Hacker+by+Night&center=true&width=800&height=45&color=58A6FF&vCenter=true&duration=2000&size=22" />
-</p>
+# Adeen Shukla
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adeen-s&color=58A6FF&style=flat-square&label=Profile+Views" />
-</p>
+**Builder writing about products, engineering, AI and careers.**
+
+CTO at [Metafic](https://metafic.co) · building Leadnics · Indore, India
+
+[adeen.me](https://adeen.me) · [Writing](https://adeen.me/blog) · [LinkedIn](https://linkedin.com/in/adeen-s) · [X](https://twitter.com/AdeenShukla) · [DEV](https://dev.to/adeens) · [adeen@adeen.me](mailto:adeen@adeen.me)
 
 ---
 
-### 🧠 About Me
+### What I'm doing now
 
-🚀 I build high-performance teams, engineer scalable systems, and ship AI-first products.
+- **Metafic:** CTO since 2020. Helped scale the company past 300 people.
+- **Leadnics:** an AI-powered lead management platform. It grew out of time spent on trade-show floors.
+- **Thinqzo:** on the board since 2025.
+- **ISB Hyderabad:** went through IVI, ISB's six-month venture program.
+- **Writing:** essays on building products, leading engineers, careers, and what changes when AI enters the room. They live on [adeen.me](https://adeen.me/blog).
 
-👨‍💻 CTO at [Metafic](https://metafic.co) — leading engineering across web, mobile, and AI.
-🧪 Founder of **Leadnics** — an AI-powered lead management platform.
-🧩 Working at the edges of **LLMs, MCP, A2A, agentic workflows, and prompt engineering**.
-📱 Shipping fast with **React Native** and cross-platform UI.
-🎙️ Tech speaker with **20+ conference talks** — forever curious.
-🌱 GitHub Campus Expert alum & GDG Indore organizer — grew a dev community of 500+ members.
-🎓 Currently sharpening the business edge at **ISB Hyderabad**.
+### Things I've built
 
-> “Good code is poetry. Great teams are jazz.” 🎷
+| Project | What it is |
+| --- | --- |
+| [mcp-gateway](https://github.com/adeen-s/mcp-gateway) | One secure, observable endpoint in front of all your MCP servers. Auth, RBAC, rate limiting, caching, OpenTelemetry. |
+| [promptslay](https://github.com/adeen-s/promptslay) | Unit tests for prompts. Deterministic and LLM-as-judge graders, snapshot baselines, and a CI gate that fails the build on drift. |
+| [Blockendance](https://github.com/adeen-s/Blockendance) ![stars](https://img.shields.io/github/stars/adeen-s/Blockendance?style=flat-square&color=ff3333&label=%E2%98%85) | A blockchain built from scratch to keep student attendance records tamper-proof. |
+| [droid-config-wt88047](https://github.com/adeen-s/droid-config-wt88047) | Sailfish OS on a Redmi 2, back in 2016. Kernels, device trees and vendor blobs, before I knew what any of it was for. |
 
----
+### How I got here
 
-### 🔧 Tech Stack & Tools
+- **2016:** ported Sailfish OS to a Redmi 2.
+- **2018:** started codeIndore(), organized my first hackathon at 19, and became a GitHub Campus Expert.
+- **2019:** GDG Indore.
+- **2020:** CTO at Metafic.
+- **2024:** started building Leadnics.
+- **2025:** ISB Hyderabad IVI, then the Thinqzo board.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nextjs,python,gcp,firebase,vercel,tailwind,androidstudio,figma,git,github,linux,vscode" />
-</p>
+Between 2018 and 2019 I organized or taught at 23 community events, about 3,600 attendees in all. More recent talks include DevFest '23, Google Cloud Community Day Indore 2023, and VIT Bhopal. The full list is at [adeen.me/speaking](https://adeen.me/speaking).
 
----
+### Tools I reach for
 
-### 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nextjs,python,gcp,firebase,tailwind,androidstudio,figma,git,github,linux,vscode" alt="React, TypeScript, JavaScript, Node.js, Next.js, Python, Google Cloud, Firebase, Tailwind, Android Studio, Figma, Git, GitHub, Linux, VS Code" />
 
-<p align="center">
-  <a href="https://github.com/adeen-s/mcp-gateway">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=adeen-s&repo=mcp-gateway&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/adeen-s/promptslay">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=adeen-s&repo=promptslay&theme=react&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/adeen-s/Blockendance">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=adeen-s&repo=Blockendance&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/adeen-s/droid-config-wt88047">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=adeen-s&repo=droid-config-wt88047&theme=react&hide_border=true" />
-  </a>
-</p>
+### Off the clock
 
-<p align="center">
-  🛡️ <a href="https://github.com/adeen-s/mcp-gateway"><b>mcp-gateway</b></a> — a production-grade gateway for the Model Context Protocol: one secure, observable endpoint in front of all your MCP servers.
-  <br/>
-  🧪 <a href="https://github.com/adeen-s/promptslay"><b>promptslay</b></a> — unit tests for prompts: regression &amp; evaluation framework with deterministic and LLM-as-judge graders.
-  <br/>
-  ⛓️ <a href="https://github.com/adeen-s/Blockendance"><b>Blockendance</b></a> — blockchain-backed attendance: tamper-proof records on a custom chain.
-  <br/>
-  🤖 <a href="https://github.com/adeen-s/droid-config-wt88047"><b>droid-config-wt88047</b></a> — device tree powering custom Android builds for the Redmi 2.
-</p>
+Hip hop, mixing, and making beats. Coffee, which has its own Instagram: [@dailybrew.company](https://instagram.com/dailybrew.company). Reading clubs. And [40+ cities](https://adeen.me/travel) so far, including driving a formula car on the Yas Marina circuit.
 
----
+Also an ordained Dudeist priest, so expect the occasional Lebowski reference at standup.
 
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adeen-s&theme=react&show_icons=true&hide_border=true&count_private=true&hide_rank=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=adeen-s&theme=react&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adeen-s&theme=react&hide_border=true&layout=compact&langs_count=8&hide=html,css" />
-</p>
-
----
-
-### ⏳ GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeen-s&theme=react-dark&area=true&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeen-s/adeen-s/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeen-s/adeen-s/output/github-contribution-grid-snake.svg" />
-    <img alt="My contribution graph getting devoured by a snake" src="https://raw.githubusercontent.com/adeen-s/adeen-s/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-### 🎯 Currently Learning
-
-- 🤖 Agentic frameworks and orchestration (LangGraph, CrewAI, AutoGen)
-- 🛰️ Model Context Protocol (MCP) servers and Agent-to-Agent (A2A) patterns
-- 🧪 LLM evals, observability, and prompt regression testing
-- 🧬 Retrieval pipelines: hybrid search, reranking, and vector stores
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/adeen-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/AdeenShukla"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/primitivederivative"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://adeen.me"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:adeen@adeen.me"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### 💬 Fun Fact
-
-```txt
-💡 Ordained Dudeist priest and self-appointed PhD in pop culture.
-☕ Cold brew obsessive, part-time music producer.
-⚠️ Brace for casual existentialism and Lebowski cameos at your standup.
-```
-<p align="center"> <img src="https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif" height="150px"/> </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61dafb,50:58A6FF,100:1a1b27&height=120&section=footer" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeen-s/adeen-s/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeen-s/adeen-s/output/github-contribution-grid-snake.svg" />
+  <img alt="My contribution graph getting eaten by a snake" src="https://raw.githubusercontent.com/adeen-s/adeen-s/output/github-contribution-grid-snake.svg" />
+</picture>
